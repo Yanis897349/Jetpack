@@ -25,3 +25,10 @@ From your project root:
 
 ```bash
 doxygen Doxyfile
+```
+
+### Credits
+This school project was carried out in collaboration with:
+
+- [Grégor Sternat](github.com/gregorsternat)
+- [Dryss Margueritte](github.com/Dryss10)
